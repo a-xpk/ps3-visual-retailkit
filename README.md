@@ -25,6 +25,6 @@ Use responsibly — do not distribute firmware modifications.
 
 
 ## CREDITS TO:
-a-xpk on github
-rj3y on discord
-fortumart.com on snapchat
+## a-xpk on github
+## rj3y on discord
+## fortumart.com on snapchat
