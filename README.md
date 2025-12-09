@@ -1,30 +1,52 @@
-# PS3 Visual Retailkit
+PS3 Visual Retailkit
 
-A custom visual overlay for PS3 running CFW and HEN— designed to give your console a “devkit” look.  
+A visual overlay for PS3 on CFW and HEN, designed to give your console a lightweight devkit-style HUD.
+Originally starting as a simple firmware-label display in v0.02, the project has grown into a functional on-screen info overlay by v0.5b.
 
-Currently displays:
+Currently Displays (v0.5b)
 
-- `<text id="system_version">4.92.1.098.59 DEV ★</text>`  
-- `<text id="system_version_desc">RETAILKIT FOR PS3 ★</text>`  
+<text id="system_version">4.92.1.098.59 DEV ★</text>
 
-## Usage
+<text id="system_version_desc">RETAILKIT FOR PS3 ★</text>
 
-1. Copy the overlay XML to your PS3, e.g. `/dev_hdd0/custom_retailkit.xml`  
-2. Load it using a CFW or HEN plugin such as **webMAN MOD**  
-4. The overlay will appear in the **upper-left corner** of your XMB or in supported homebrew  
+Real-time IP address
 
-## Purpose
+Real-time FPS counter
 
-The project aims to give your PS3 a **devkit-style visual flair**.  
-It is purely cosmetic — no firmware is modified, and it is completely safe on CFW and HEN.
+IDPS viewer
 
-## License & Disclaimer
+All elements appear in the upper-left corner, optimized for 1080p / 1080i.
 
-This overlay is for personal use. It does **not** modify the real firmware stored in `/dev_flash`.  
-Use responsibly — do not distribute firmware modifications.
+Usage
 
+Copy the overlay XML to your PS3 (example: /dev_hdd0/custom_retailkit.xml).
 
-## CREDITS TO:
-## a-xpk on github
-## rj3y on discord
-## fortumart.com on snapchat
+Load it using a CFW or HEN-compatible plugin like webMAN MOD.
+
+The overlay will show on the XMB and in homebrew that supports drawing overlays.
+
+Purpose
+
+The goal is simple:
+Give your PS3 a clean, cosmetic devkit-inspired look without touching system files.
+It does not modify firmware, flash, or system behavior — it's purely visual.
+
+Version Notes
+
+v0.02 — basic system version text only.
+
+v0.5b — added IP, FPS, IDPS, improved layout, and expanded compatibility.
+
+License & Disclaimer
+
+This project is for personal, cosmetic use only.
+It does not edit /dev_flash, NOR modify actual firmware.
+You alone are responsible for how you use it.
+
+Credits
+
+a-xpk on GitHub
+
+rj3y on Discord
+
+fortumart.com on Snapchat
