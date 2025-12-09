@@ -16,7 +16,7 @@ Currently displays:
 ## Purpose
 
 The project aims to give your PS3 a **devkit-style visual flair**.  
-It is purely cosmetic — no firmware is modified, and it is completely safe on CFW.  
+It is purely cosmetic — no firmware is modified, and it is completely safe on CFW and HEN;
 
 ## License & Disclaimer
 
