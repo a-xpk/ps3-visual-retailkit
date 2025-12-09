@@ -25,7 +25,7 @@ Load it using a CFW or HEN-compatible plugin like webMAN MOD.
 
 The overlay will show on the XMB and in homebrew that supports drawing overlays.
 
-Purpose
+## Purpose
 
 The goal is simple:
 Give your PS3 a clean, cosmetic devkit-inspired look without touching system files.
