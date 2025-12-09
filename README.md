@@ -1,6 +1,6 @@
 # PS3 Visual Retailkit
 
-A custom visual overlay for PS3 running CFW — designed to give your console a “devkit” look.  
+A custom visual overlay for PS3 running HFW, CFW, and HEN— designed to give your console a “devkit” look.  
 
 Currently displays:
 
