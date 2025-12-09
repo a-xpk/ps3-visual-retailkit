@@ -1,0 +1,47 @@
+<CFW>
+    <SystemVersion>4.92.1.098.59 DEV ★</SystemVersion>
+    <Position>upleft</Position>
+    <FontSize>18</FontSize>
+    <ColorCycle speed="slow">
+        <Color>#FF0000</Color>
+        <Color>#FF7F00</Color>
+        <Color>#FFFF00</Color>
+        <Color>#00FF00</Color>
+        <Color>#0000FF</Color>
+        <Color>#4B0082</Color>
+        <Color>#8B00FF</Color>
+    </ColorCycle>
+
+    <!-- IP overlay -->
+    <Overlay>
+        <Type>IP</Type>
+        <Position>x:20 y:50</Position>
+        <FontSize>16</FontSize>
+        <Color>#00FFFF</Color>
+    </Overlay>
+
+    <!-- FPS overlay -->
+    <Overlay>
+        <Type>FPS</Type>
+        <Position>x:20 y:80</Position>
+        <FontSize>16</FontSize>
+        <Color>#FFFFFF</Color>
+    </Overlay>
+
+    <!-- Console ID overlay -->
+    <Overlay>
+        <Type>ConsoleID</Type>
+        <Position>x:20 y:110</Position>
+        <FontSize>16</FontSize>
+        <Color>#FF00FF</Color>
+    </Overlay>
+
+    <!-- Retailkit description overlay -->
+    <Overlay>
+        <Type>Text</Type>
+        <Content>RETAILKIT FOR PS3 ★</Content>
+        <Position>x:20 y:140</Position>
+        <FontSize>16</FontSize>
+        <Color>#FFFF00</Color>
+    </Overlay>
+</CFW>
