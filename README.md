@@ -10,8 +10,8 @@ Currently displays:
 ## Usage
 
 1. Copy the overlay XML to your PS3, e.g. `/dev_hdd0/custom_retailkit.xml`  
-2. Load it using a CFW plugin such as **webMAN MOD**  
-3. The overlay will appear in the **upper-left corner** of your XMB or in supported homebrew  
+2. Load it using a CFW or HEN plugin such as **webMAN MOD**  
+4. The overlay will appear in the **upper-left corner** of your XMB or in supported homebrew  
 
 ## Purpose
 
