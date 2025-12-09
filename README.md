@@ -22,3 +22,9 @@ It is purely cosmetic — no firmware is modified, and it is completely safe on 
 
 This overlay is for personal use. It does **not** modify the real firmware stored in `/dev_flash`.  
 Use responsibly — do not distribute firmware modifications.
+
+
+## CREDITS TO:
+a-xpk on github
+rj3y on discord
+fortumart.com on snapchat
