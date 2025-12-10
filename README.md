@@ -3,17 +3,11 @@
 A visual overlay for PS3 on CFW and HEN, designed to give your console a lightweight devkit-style HUD.
 Originally starting as a simple firmware-label display in v0.02, the project has grown into a functional on-screen info overlay by v0.5b.
 
- ## Currently Displays (v0.5b)
+ ## Currently Displays (v0.6b)
 
 <text id="system_version">4.92.1.098.59 DEV ★</text>
 
 <text id="system_version_desc">RETAILKIT FOR PS3 ★</text>
-
-Real-time IP address
-
-Real-time FPS counter
-
-IDPS viewer
 
 All elements appear in the upper-left corner, optimized for 1080p / 1080i.
 
@@ -36,6 +30,8 @@ It does not modify firmware, flash, or system behavior — it's purely visual.
 v0.02 — basic system version text only.
 
 v0.5b — added IP, FPS, IDPS, improved layout, and expanded compatibility.
+
+v0.6b — removed IP, FPS, IDPS
 
 ## License & Disclaimer
 
