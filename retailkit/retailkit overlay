@@ -12,7 +12,7 @@
         <Color>#8B00FF</Color>
     </ColorCycle>
 
-    <!-- Retailki t description overlay -->
+    <!-- Retailkit description overlay -->
     <Overlay>
         <Type>Text</Type>
         <Content>RETAILKIT FOR PS3 ★</Content>
