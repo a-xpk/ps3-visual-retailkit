@@ -12,31 +12,7 @@
         <Color>#8B00FF</Color>
     </ColorCycle>
 
-    <!-- IP overlay -->
-    <Overlay>
-        <Type>IP</Type>
-        <Position>x:20 y:50</Position>
-        <FontSize>16</FontSize>
-        <Color>#00FFFF</Color>
-    </Overlay>
-
-    <!-- FPS overlay -->
-    <Overlay>
-        <Type>FPS</Type>
-        <Position>x:20 y:80</Position>
-        <FontSize>16</FontSize>
-        <Color>#FFFFFF</Color>
-    </Overlay>
-
-    <!-- Console ID overlay -->
-    <Overlay>
-        <Type>ConsoleID</Type>
-        <Position>x:20 y:110</Position>
-        <FontSize>16</FontSize>
-        <Color>#FF00FF</Color>
-    </Overlay>
-
-    <!-- Retailkit description overlay -->
+    <!-- Retailki t description overlay -->
     <Overlay>
         <Type>Text</Type>
         <Content>RETAILKIT FOR PS3 ★</Content>
