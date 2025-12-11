@@ -37,18 +37,21 @@ Note: This HUD is purely cosmetic — it does not modify firmware or flash.
 
  ## Version History
 
-v0.02 — initial firmware version label
+v0.02— initial firmware version label
+
 v0.5b — added IP, FPS, IDPS, improved layout, added 1080p/1080i support
+
 v0.6b — removed IP/FPS/IDPS, simplified layout
+
 v0.7b — added dynamic elements via msgtext (SYS, HEN, IP), refined offsets, smooth rainbow cycling
 
-### Purpose
+##Purpose
 
 The goal is simple:
 Provide a subtle devkit-inspired overlay for retail PS3 systems without touching system files.
 Safe for both CFW and HEN consoles.
 
- ### Credits
+ ## Credits
 
 a-xpk — GitHub
 
