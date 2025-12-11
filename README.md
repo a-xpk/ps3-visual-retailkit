@@ -45,7 +45,8 @@ v0.6b — removed IP/FPS/IDPS, simplified layout
 
 v0.7b — added dynamic elements via msgtext (SYS, HEN, IP), refined offsets, smooth rainbow cycling
 
-##Purpose
+## Purpose
+
 
 The goal is simple:
 Provide a subtle devkit-inspired overlay for retail PS3 systems without touching system files.
