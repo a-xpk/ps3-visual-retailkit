@@ -1,48 +1,58 @@
- ## PS3 Visual Retailkit
+PS3 Visual Retailkit
 
-A visual overlay for PS3 on CFW and HEN, designed to give your console a lightweight devkit-style HUD.
-Originally starting as a simple firmware-label display in v0.02, the project has grown into a functional on-screen info overlay by v0.5b.
+A lightweight visual overlay for PS3 on CFW and HEN, designed to give your console a clean devkit-style HUD.
+Originally starting in v0.02 as a simple firmware label, it evolved into a functional on-screen info overlay by v0.5b, and has now been refined in v0.7b to include multiple dynamic elements.
 
- ## Currently Displays (v0.6b)
+Features (v0.7b)
 
-<text id="system_version">4.92.1.098.59 DEV ★</text>
+Rendered using the XMB-style msgtext system:
 
-<text id="system_version_desc">RETAILKIT FOR PS3 ★</text>
+SYS: 4.92.1.098.59 DEV ★
+HEN: %HENVERSION%
+IP: %IP%
 
-All elements appear in the upper-left corner, optimized for 1080p / 1080i.
 
- ## Usage
+Smooth rainbow color-cycling for all text
 
-Copy the overlay XML to your PS3 (example: /dev_hdd0/custom_retailkit.xml).
+Bottom-right corner positioning with offsets
 
-Load it using a CFW or HEN-compatible plugin like webMAN MOD.
+Optimized for 1080p / 1080i
 
-The overlay will show on the XMB and in homebrew that supports drawing overlays.
+Fully compatible with CFW and HEN
 
-## Purpose
+Displays dynamic system info: system version, HEN version, and IP address
+
+Usage
+
+Copy the overlay XML to your PS3:
+
+/dev_hdd0/custom_retailkit.xml
+
+
+Load it with a plugin that supports custom overlays, e.g., webMAN MOD.
+
+The overlay will appear on the XMB and in homebrew that supports on-screen text rendering.
+
+This HUD is cosmetic only — it does not modify firmware or flash.
+
+Version History
+
+v0.02 — initial firmware version label
+v0.5b — added IP, FPS, IDPS, improved layout, added 1080p/1080i support
+v0.6b — removed IP/FPS/IDPS, simplified layout
+v0.7b — added dynamic elements via msgtext (SYS, HEN, IP), refined offsets, smooth rainbow cycling
+
+Purpose
 
 The goal is simple:
-Give your PS3 a clean, cosmetic devkit-inspired look without touching system files.
-It does not modify firmware, flash, or system behavior — it's purely visual.
+Provide a subtle devkit-inspired overlay for retail PS3 systems without touching system files.
+Safe for both CFW and HEN consoles.
 
-## Version Notes
+Credits
 
-v0.02 — basic system version text only.
+a-xpk — GitHub
+rj3y — Discord
+fortumart.com — Snapchat
 
-v0.5b — added IP, FPS, IDPS, improved layout, and expanded compatibility.
-
-v0.6b — removed IP, FPS, IDPS
-
-## License & Disclaimer
-
-This project is for personal, cosmetic use only.
-It does not edit /dev_flash, NOR modify actual firmware.
-You alone are responsible for how you use it.
-
- ## Credits
-
-a-xpk on GitHub
-
-rj3y on Discord
-
-fortumart.com on Snapchat
+Support the Project
+<a href="https://ko-fi.com/a_xpk"> <img src="https://storage.ko-fi.com/cdn/kofi3.png" width="200" alt="Support on Ko-fi"> </a>
