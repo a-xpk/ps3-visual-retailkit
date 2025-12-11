@@ -1,23 +1,52 @@
 <CFW>
-    <SystemVersion>4.92.1.098.59 DEV ★</SystemVersion>
-    <Position>upleft</Position>
-    <FontSize>18</FontSize>
-    <ColorCycle speed="slow">
-        <Color>#FF0000</Color>
-        <Color>#FF7F00</Color>
-        <Color>#FFFF00</Color>
-        <Color>#00FF00</Color>
-        <Color>#0000FF</Color>
-        <Color>#4B0082</Color>
-        <Color>#8B00FF</Color>
-    </ColorCycle>
-
-    <!-- Retailkit description overlay -->
-    <Overlay>
-        <Type>Text</Type>
-        <Content>RETAILKIT FOR PS3 ★</Content>
-        <Position>x:20 y:140</Position>
-        <FontSize>16</FontSize>
-        <Color>#FFFF00</Color>
-    </Overlay>
+<msgtext>
+    <SystemVersion>
+        <Text>SYS: 4.92.1.098.59 DEV ★</Text>
+        <Position>downright</Position>
+        <FontSize>18</FontSize>
+        <OffsetX>-50</OffsetX>
+        <OffsetY>-150</OffsetY>
+        <ColorCycle speed="slow">
+            <Color>#FF0000</Color>
+            <Color>#FF7F00</Color>
+            <Color>#FFFF00</Color>
+            <Color>#00FF00</Color>
+            <Color>#0000FF</Color>
+            <Color>#4B0082</Color>
+            <Color>#8B00FF</Color>
+        </ColorCycle>
+    </SystemVersion>
+    <HENVersion>
+        <Text>HEN: %HENVERSION%</Text>
+        <Position>downright</Position>
+        <FontSize>18</FontSize>
+        <OffsetX>-50</OffsetX>
+        <OffsetY>-100</OffsetY>
+        <ColorCycle speed="slow">
+            <Color>#FF0000</Color>
+            <Color>#FF7F00</Color>
+            <Color>#FFFF00</Color>
+            <Color>#00FF00</Color>
+            <Color>#0000FF</Color>
+            <Color>#4B0082</Color>
+            <Color>#8B00FF</Color>
+        </ColorCycle>
+    </HENVersion>
+    <IPAddress>
+        <Text>IP: %IP%</Text>
+        <Position>downright</Position>
+        <FontSize>18</FontSize>
+        <OffsetX>-50</OffsetX>
+        <OffsetY>-50</OffsetY>
+        <ColorCycle speed="slow">
+            <Color>#FF0000</Color>
+            <Color>#FF7F00</Color>
+            <Color>#FFFF00</Color>
+            <Color>#00FF00</Color>
+            <Color>#0000FF</Color>
+            <Color>#4B0082</Color>
+            <Color>#8B00FF</Color>
+        </ColorCycle>
+    </IPAddress>
+ </msgtext>
 </CFW>
