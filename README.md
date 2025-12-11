@@ -35,7 +35,7 @@ The overlay will appear on the XMB and in homebrew that supports on-screen text 
 
 Note: This HUD is purely cosmetic — it does not modify firmware or flash.
 
- ### Version History
+ ## Version History
 
 v0.02 — initial firmware version label
 v0.5b — added IP, FPS, IDPS, improved layout, added 1080p/1080i support
