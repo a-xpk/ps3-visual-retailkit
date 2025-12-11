@@ -8,7 +8,9 @@ Originally starting in v0.02 as a simple firmware label, it evolved into a funct
 The overlay is rendered using the XMB-style msgtext system:
 
 SYS: 4.92.1.098.59 DEV ★
+
 HEN: %HENVERSION%
+
 IP: %IP%
 
 
